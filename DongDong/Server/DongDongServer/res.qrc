@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/headIcon">
+        <file>res/defaultHeadIcon.png</file>
+        <file>res/groupIcon.png</file>
+    </qresource>
+</RCC>

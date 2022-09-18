@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>res/menu/chatRecord.png</file>
+        <file>res/menu/expression.png</file>
+        <file>res/menu/file.png</file>
+        <file>res/menu/myChat0.png</file>
+        <file>res/menu/myChat1.png</file>
+        <file>res/menu/myFriend0.png</file>
+        <file>res/menu/myFriend1.png</file>
+        <file>res/menu/screenShot.png</file>
+        <file>res/menu/cancelChoose.png</file>
+        <file>res/menu/choosed.png</file>
+        <file>res/menu/noChoosed.png</file>
+    </qresource>
+    <qresource prefix="/friend/headIcon"/>
+    <qresource prefix="/friend"/>
+    <qresource prefix="/">
+        <file>res/friend/headIcon/fileTransHelper.png</file>
+    </qresource>
+</RCC>
